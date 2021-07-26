@@ -49,11 +49,11 @@ Subscribed (target): has the client subscribed a term deposit?
 
 
 ## Tools and Algorithms Used for Analysis :
-Python
-Numpy
-Pandas
-Seaborn
-Logistic Regression
+Python,
+Numpy,
+Pandas,
+Seaborn,
+Logistic Regression,
 Decision Tree Classifier
 
 ## References :
