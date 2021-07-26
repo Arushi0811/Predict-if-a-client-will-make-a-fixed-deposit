@@ -1,7 +1,8 @@
 # Predict-if-a-client-will-make-a-fixed-deposit
 -by Arushi Mahwar, student from Birla Institute Of Technology, Mesra, Jaipur campus
 
-This is my project on machine learning. Languages included : Python 
+This is my project on machine learning. Languages included : Python          
+
 Goal : To predict whether the client will make a fixed deposit in a bank or not.
 
 ## Problem Statement: 
